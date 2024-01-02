@@ -1,6 +1,6 @@
 module github.com/iqbalnew/pkg-helper
 
-go 1.20
+go 1.17
 
 require (
 	github.com/sirupsen/logrus v1.9.3
